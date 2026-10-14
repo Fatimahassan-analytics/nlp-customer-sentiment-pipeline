@@ -1,0 +1,6 @@
+# Optional: install these on top of requirements.txt to enable DistilBERT + BERTopic
+torch==2.2.1
+transformers==4.39.3
+datasets==2.18.0
+bertopic==0.16.0
+sentence-transformers==2.5.1
