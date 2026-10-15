@@ -1,0 +1,1001 @@
+review_id,text,rating,sentiment,source
+0,Customer service was unhelpful and rude. Brilliant service.,1,negative,synthetic
+1,Absolutely love this product — exceeded my expectations. Would buy again.,5,positive,synthetic
+2,"Late delivery, damaged packaging, poor quality. Disappointed actually.",1,negative,synthetic
+3,Works as described. No complaints but no praise either. Not what I expected.,2,neutral,synthetic
+4,Best purchase I have made this year. Highly recommend. Disappointed actually.,5,positive,synthetic
+5,Did not match the description at all. Returning. Not what I expected.,1,negative,synthetic
+6,Customer service was unhelpful and rude. Really impressed.,2,negative,synthetic
+7,Customer service was unhelpful and rude. Will recommend to friends.,1,negative,synthetic
+8,So happy with my order. Will definitely be a repeat customer. Would buy again.,5,positive,synthetic
+9,Absolutely love this product — exceeded my expectations. Disappointed actually.,5,positive,synthetic
+10,Absolutely love this product — exceeded my expectations. Would buy again.,5,positive,synthetic
+11,Customer service was unhelpful and rude. Will recommend to friends.,1,negative,synthetic
+12,Works as described. No complaints but no praise either.,3,neutral,synthetic
+13,Worst purchase I have ever made. Avoid. Will recommend to friends.,2,negative,synthetic
+14,Absolutely love this product — exceeded my expectations. Not what I expected.,5,positive,synthetic
+15,Best purchase I have made this year. Highly recommend. Not what I expected.,4,positive,synthetic
+16,Three stars. Met expectations but did not exceed them.,4,neutral,synthetic
+17,Best purchase I have made this year. Highly recommend. Brilliant service.,5,positive,synthetic
+18,Very disappointed. The product felt cheap and flimsy. Will recommend to friends.,1,negative,synthetic
+19,"Decent quality for the price, but packaging could be better. Brilliant service.",3,neutral,synthetic
+20,Terrible experience — product broke after one week. Would buy again.,2,negative,synthetic
+21,"Excellent customer service, the team went above and beyond. Disappointed actually.",5,positive,synthetic
+22,One star. Product stopped working within a month. Really impressed.,2,negative,synthetic
+23,Would not recommend. Save your money. Not what I expected.,1,negative,synthetic
+24,"Late delivery, damaged packaging, poor quality. Disappointed actually.",1,negative,synthetic
+25,"Excellent customer service, the team went above and beyond. Really impressed.",4,positive,synthetic
+26,Best purchase I have made this year. Highly recommend. Would buy again.,5,positive,synthetic
+27,Brilliant quality and the price was unbeatable. Disappointed actually.,5,positive,synthetic
+28,"Great value for money, fast delivery, would buy again. Disappointed actually.",5,positive,synthetic
+29,Average product. Delivery was on time. Would buy again.,3,neutral,synthetic
+30,One star. Product stopped working within a month. Brilliant service.,1,negative,synthetic
+31,Customer service was unhelpful and rude. Really impressed.,2,negative,synthetic
+32,Brilliant quality and the price was unbeatable. Will recommend to friends.,5,positive,synthetic
+33,Brilliant quality and the price was unbeatable. Disappointed actually.,5,positive,synthetic
+34,Five stars — works perfectly out of the box. Would buy again.,5,positive,synthetic
+35,Absolutely love this product — exceeded my expectations. Really impressed.,5,positive,synthetic
+36,"Easy to use, well-built, and arrived earlier than expected. Would buy again.",5,positive,synthetic
+37,"Great value for money, fast delivery, would buy again. Will recommend to friends.",5,positive,synthetic
+38,So happy with my order. Will definitely be a repeat customer. Not what I expected.,5,positive,synthetic
+39,Average product. Delivery was on time. Really impressed.,2,neutral,synthetic
+40,Five stars — works perfectly out of the box. Disappointed actually.,4,positive,synthetic
+41,Would not recommend. Save your money. Would buy again.,2,negative,synthetic
+42,Worst purchase I have ever made. Avoid.,1,negative,synthetic
+43,"Great value for money, fast delivery, would buy again. Disappointed actually.",5,positive,synthetic
+44,Terrible experience — product broke after one week. Would buy again.,1,negative,synthetic
+45,Worst purchase I have ever made. Avoid. Brilliant service.,1,negative,synthetic
+46,Five stars — works perfectly out of the box. Disappointed actually.,4,positive,synthetic
+47,"Great value for money, fast delivery, would buy again. Really impressed.",5,positive,synthetic
+48,Works as described. No complaints but no praise either. Brilliant service.,4,neutral,synthetic
+49,"Great value for money, fast delivery, would buy again. Disappointed actually.",4,positive,synthetic
+50,So happy with my order. Will definitely be a repeat customer. Brilliant service.,5,positive,synthetic
+51,Five stars — works perfectly out of the box. Really impressed.,4,positive,synthetic
+52,Very disappointed. The product felt cheap and flimsy. Brilliant service.,1,negative,synthetic
+53,It is fine. Would not go out of my way to recommend. Disappointed actually.,2,neutral,synthetic
+54,Did not match the description at all. Returning. Really impressed.,1,negative,synthetic
+55,Would not recommend. Save your money. Really impressed.,2,negative,synthetic
+56,Brilliant quality and the price was unbeatable. Brilliant service.,5,positive,synthetic
+57,Works as described. No complaints but no praise either. Disappointed actually.,2,neutral,synthetic
+58,Five stars — works perfectly out of the box. Brilliant service.,5,positive,synthetic
+59,"Great value for money, fast delivery, would buy again. Not what I expected.",5,positive,synthetic
+60,"Mixed feelings — some features great, others lacking. Disappointed actually.",4,neutral,synthetic
+61,Best purchase I have made this year. Highly recommend. Will recommend to friends.,5,positive,synthetic
+62,"Mixed feelings — some features great, others lacking. Disappointed actually.",2,neutral,synthetic
+63,Very disappointed. The product felt cheap and flimsy. Would buy again.,1,negative,synthetic
+64,Three stars. Met expectations but did not exceed them.,2,neutral,synthetic
+65,"Decent quality for the price, but packaging could be better. Disappointed actually.",4,neutral,synthetic
+66,Works as described. No complaints but no praise either. Not what I expected.,3,neutral,synthetic
+67,Brilliant quality and the price was unbeatable. Not what I expected.,5,positive,synthetic
+68,Absolutely love this product — exceeded my expectations. Not what I expected.,4,positive,synthetic
+69,Best purchase I have made this year. Highly recommend. Not what I expected.,5,positive,synthetic
+70,Absolutely love this product — exceeded my expectations. Will recommend to friends.,5,positive,synthetic
+71,Brilliant quality and the price was unbeatable. Brilliant service.,5,positive,synthetic
+72,One star. Product stopped working within a month. Would buy again.,1,negative,synthetic
+73,Five stars — works perfectly out of the box. Really impressed.,5,positive,synthetic
+74,"Great value for money, fast delivery, would buy again. Disappointed actually.",5,positive,synthetic
+75,Best purchase I have made this year. Highly recommend. Would buy again.,4,positive,synthetic
+76,Brilliant quality and the price was unbeatable. Disappointed actually.,5,positive,synthetic
+77,Works as described. No complaints but no praise either. Will recommend to friends.,3,neutral,synthetic
+78,"Reasonable product, but the instructions were unclear. Not what I expected.",3,neutral,synthetic
+79,One star. Product stopped working within a month. Disappointed actually.,1,negative,synthetic
+80,"Reasonable product, but the instructions were unclear. Disappointed actually.",2,neutral,synthetic
+81,"Excellent customer service, the team went above and beyond. Would buy again.",5,positive,synthetic
+82,"Late delivery, damaged packaging, poor quality. Brilliant service.",2,negative,synthetic
+83,"Excellent customer service, the team went above and beyond. Would buy again.",5,positive,synthetic
+84,Best purchase I have made this year. Highly recommend. Brilliant service.,5,positive,synthetic
+85,Five stars — works perfectly out of the box.,5,positive,synthetic
+86,One star. Product stopped working within a month. Brilliant service.,2,negative,synthetic
+87,So happy with my order. Will definitely be a repeat customer. Really impressed.,5,positive,synthetic
+88,Brilliant quality and the price was unbeatable.,5,positive,synthetic
+89,Works as described. No complaints but no praise either. Will recommend to friends.,3,neutral,synthetic
+90,"Excellent customer service, the team went above and beyond. Will recommend to friends.",4,positive,synthetic
+91,"Reasonable product, but the instructions were unclear. Will recommend to friends.",3,neutral,synthetic
+92,"Great value for money, fast delivery, would buy again. Will recommend to friends.",4,positive,synthetic
+93,Absolutely love this product — exceeded my expectations. Would buy again.,4,positive,synthetic
+94,"Great value for money, fast delivery, would buy again. Not what I expected.",5,positive,synthetic
+95,"Mixed feelings — some features great, others lacking. Would buy again.",3,neutral,synthetic
+96,"Excellent customer service, the team went above and beyond. Would buy again.",4,positive,synthetic
+97,So happy with my order. Will definitely be a repeat customer. Will recommend to friends.,5,positive,synthetic
+98,"Great value for money, fast delivery, would buy again. Would buy again.",5,positive,synthetic
+99,One star. Product stopped working within a month. Not what I expected.,1,negative,synthetic
+100,One star. Product stopped working within a month. Would buy again.,1,negative,synthetic
+101,"Reasonable product, but the instructions were unclear.",3,neutral,synthetic
+102,Five stars — works perfectly out of the box. Not what I expected.,5,positive,synthetic
+103,Terrible experience — product broke after one week.,2,negative,synthetic
+104,Customer service was unhelpful and rude. Really impressed.,1,negative,synthetic
+105,"Late delivery, damaged packaging, poor quality. Will recommend to friends.",2,negative,synthetic
+106,Brilliant quality and the price was unbeatable. Will recommend to friends.,4,positive,synthetic
+107,"Great value for money, fast delivery, would buy again.",5,positive,synthetic
+108,Five stars — works perfectly out of the box. Not what I expected.,5,positive,synthetic
+109,One star. Product stopped working within a month. Would buy again.,1,negative,synthetic
+110,"Excellent customer service, the team went above and beyond. Brilliant service.",4,positive,synthetic
+111,"Easy to use, well-built, and arrived earlier than expected.",5,positive,synthetic
+112,Absolutely love this product — exceeded my expectations. Would buy again.,5,positive,synthetic
+113,"Decent quality for the price, but packaging could be better. Brilliant service.",4,neutral,synthetic
+114,"Excellent customer service, the team went above and beyond. Would buy again.",5,positive,synthetic
+115,Customer service was unhelpful and rude. Will recommend to friends.,1,negative,synthetic
+116,"Late delivery, damaged packaging, poor quality. Brilliant service.",1,negative,synthetic
+117,Worst purchase I have ever made. Avoid. Will recommend to friends.,2,negative,synthetic
+118,"Excellent customer service, the team went above and beyond. Really impressed.",4,positive,synthetic
+119,It is fine. Would not go out of my way to recommend. Not what I expected.,4,neutral,synthetic
+120,"Mixed feelings — some features great, others lacking. Really impressed.",3,neutral,synthetic
+121,"It is okay, does the job but nothing special. Not what I expected.",2,neutral,synthetic
+122,Brilliant quality and the price was unbeatable. Will recommend to friends.,5,positive,synthetic
+123,"Easy to use, well-built, and arrived earlier than expected. Will recommend to friends.",4,positive,synthetic
+124,Absolutely love this product — exceeded my expectations. Really impressed.,5,positive,synthetic
+125,"Great value for money, fast delivery, would buy again. Not what I expected.",5,positive,synthetic
+126,Brilliant quality and the price was unbeatable. Really impressed.,5,positive,synthetic
+127,Five stars — works perfectly out of the box. Would buy again.,5,positive,synthetic
+128,Best purchase I have made this year. Highly recommend. Disappointed actually.,5,positive,synthetic
+129,"It is okay, does the job but nothing special.",4,neutral,synthetic
+130,Best purchase I have made this year. Highly recommend.,5,positive,synthetic
+131,Customer service was unhelpful and rude.,1,negative,synthetic
+132,Average product. Delivery was on time.,2,neutral,synthetic
+133,"Easy to use, well-built, and arrived earlier than expected. Will recommend to friends.",5,positive,synthetic
+134,Average product. Delivery was on time.,4,neutral,synthetic
+135,"Excellent customer service, the team went above and beyond. Would buy again.",4,positive,synthetic
+136,Did not match the description at all. Returning. Would buy again.,1,negative,synthetic
+137,"Easy to use, well-built, and arrived earlier than expected. Really impressed.",5,positive,synthetic
+138,Did not match the description at all. Returning. Really impressed.,1,negative,synthetic
+139,Five stars — works perfectly out of the box. Would buy again.,5,positive,synthetic
+140,So happy with my order. Will definitely be a repeat customer. Disappointed actually.,5,positive,synthetic
+141,Best purchase I have made this year. Highly recommend. Would buy again.,5,positive,synthetic
+142,Worst purchase I have ever made. Avoid. Will recommend to friends.,2,negative,synthetic
+143,"Decent quality for the price, but packaging could be better. Brilliant service.",4,neutral,synthetic
+144,So happy with my order. Will definitely be a repeat customer. Brilliant service.,5,positive,synthetic
+145,Brilliant quality and the price was unbeatable. Would buy again.,4,positive,synthetic
+146,"Easy to use, well-built, and arrived earlier than expected. Really impressed.",5,positive,synthetic
+147,"Reasonable product, but the instructions were unclear. Disappointed actually.",4,neutral,synthetic
+148,"Great value for money, fast delivery, would buy again. Really impressed.",5,positive,synthetic
+149,Best purchase I have made this year. Highly recommend. Really impressed.,5,positive,synthetic
+150,Worst purchase I have ever made. Avoid. Really impressed.,1,negative,synthetic
+151,Customer service was unhelpful and rude. Not what I expected.,2,negative,synthetic
+152,Brilliant quality and the price was unbeatable. Brilliant service.,4,positive,synthetic
+153,"It is okay, does the job but nothing special. Would buy again.",2,neutral,synthetic
+154,Best purchase I have made this year. Highly recommend. Would buy again.,5,positive,synthetic
+155,Works as described. No complaints but no praise either. Really impressed.,2,neutral,synthetic
+156,Absolutely love this product — exceeded my expectations. Not what I expected.,4,positive,synthetic
+157,Average product. Delivery was on time. Really impressed.,2,neutral,synthetic
+158,Terrible experience — product broke after one week.,1,negative,synthetic
+159,Worst purchase I have ever made. Avoid. Disappointed actually.,2,negative,synthetic
+160,"Great value for money, fast delivery, would buy again.",4,positive,synthetic
+161,Terrible experience — product broke after one week. Would buy again.,1,negative,synthetic
+162,Brilliant quality and the price was unbeatable. Disappointed actually.,5,positive,synthetic
+163,"Great value for money, fast delivery, would buy again. Would buy again.",4,positive,synthetic
+164,Works as described. No complaints but no praise either.,2,neutral,synthetic
+165,Five stars — works perfectly out of the box.,5,positive,synthetic
+166,Very disappointed. The product felt cheap and flimsy. Really impressed.,2,negative,synthetic
+167,Worst purchase I have ever made. Avoid. Not what I expected.,1,negative,synthetic
+168,"Excellent customer service, the team went above and beyond. Not what I expected.",5,positive,synthetic
+169,Very disappointed. The product felt cheap and flimsy.,1,negative,synthetic
+170,Best purchase I have made this year. Highly recommend. Would buy again.,5,positive,synthetic
+171,"Reasonable product, but the instructions were unclear. Not what I expected.",4,neutral,synthetic
+172,So happy with my order. Will definitely be a repeat customer. Will recommend to friends.,4,positive,synthetic
+173,Worst purchase I have ever made. Avoid. Would buy again.,2,negative,synthetic
+174,"Great value for money, fast delivery, would buy again. Really impressed.",5,positive,synthetic
+175,"Great value for money, fast delivery, would buy again. Not what I expected.",5,positive,synthetic
+176,So happy with my order. Will definitely be a repeat customer. Disappointed actually.,5,positive,synthetic
+177,Would not recommend. Save your money. Would buy again.,1,negative,synthetic
+178,One star. Product stopped working within a month. Would buy again.,1,negative,synthetic
+179,One star. Product stopped working within a month. Will recommend to friends.,1,negative,synthetic
+180,Very disappointed. The product felt cheap and flimsy. Will recommend to friends.,2,negative,synthetic
+181,Terrible experience — product broke after one week. Brilliant service.,1,negative,synthetic
+182,Average product. Delivery was on time. Disappointed actually.,2,neutral,synthetic
+183,Absolutely love this product — exceeded my expectations. Would buy again.,4,positive,synthetic
+184,One star. Product stopped working within a month. Really impressed.,1,negative,synthetic
+185,It is fine. Would not go out of my way to recommend.,4,neutral,synthetic
+186,"Great value for money, fast delivery, would buy again.",5,positive,synthetic
+187,Best purchase I have made this year. Highly recommend. Will recommend to friends.,5,positive,synthetic
+188,Worst purchase I have ever made. Avoid. Disappointed actually.,1,negative,synthetic
+189,Best purchase I have made this year. Highly recommend. Brilliant service.,5,positive,synthetic
+190,Very disappointed. The product felt cheap and flimsy. Really impressed.,1,negative,synthetic
+191,"Excellent customer service, the team went above and beyond. Brilliant service.",5,positive,synthetic
+192,So happy with my order. Will definitely be a repeat customer. Really impressed.,5,positive,synthetic
+193,Did not match the description at all. Returning. Brilliant service.,2,negative,synthetic
+194,Five stars — works perfectly out of the box. Brilliant service.,5,positive,synthetic
+195,"Easy to use, well-built, and arrived earlier than expected. Not what I expected.",4,positive,synthetic
+196,Works as described. No complaints but no praise either. Will recommend to friends.,2,neutral,synthetic
+197,Customer service was unhelpful and rude. Not what I expected.,1,negative,synthetic
+198,"Easy to use, well-built, and arrived earlier than expected. Brilliant service.",4,positive,synthetic
+199,"Great value for money, fast delivery, would buy again. Really impressed.",5,positive,synthetic
+200,Terrible experience — product broke after one week.,1,negative,synthetic
+201,Terrible experience — product broke after one week. Disappointed actually.,1,negative,synthetic
+202,Average product. Delivery was on time. Would buy again.,4,neutral,synthetic
+203,Best purchase I have made this year. Highly recommend. Would buy again.,5,positive,synthetic
+204,"Excellent customer service, the team went above and beyond. Not what I expected.",4,positive,synthetic
+205,So happy with my order. Will definitely be a repeat customer. Not what I expected.,4,positive,synthetic
+206,"Easy to use, well-built, and arrived earlier than expected. Brilliant service.",5,positive,synthetic
+207,"Reasonable product, but the instructions were unclear. Would buy again.",3,neutral,synthetic
+208,Best purchase I have made this year. Highly recommend. Will recommend to friends.,4,positive,synthetic
+209,Three stars. Met expectations but did not exceed them. Would buy again.,3,neutral,synthetic
+210,"It is okay, does the job but nothing special. Really impressed.",4,neutral,synthetic
+211,"Mixed feelings — some features great, others lacking.",4,neutral,synthetic
+212,So happy with my order. Will definitely be a repeat customer. Would buy again.,5,positive,synthetic
+213,Terrible experience — product broke after one week. Really impressed.,1,negative,synthetic
+214,One star. Product stopped working within a month. Disappointed actually.,1,negative,synthetic
+215,"Late delivery, damaged packaging, poor quality.",1,negative,synthetic
+216,"Easy to use, well-built, and arrived earlier than expected. Really impressed.",4,positive,synthetic
+217,Five stars — works perfectly out of the box. Not what I expected.,5,positive,synthetic
+218,One star. Product stopped working within a month. Will recommend to friends.,2,negative,synthetic
+219,"Easy to use, well-built, and arrived earlier than expected. Disappointed actually.",4,positive,synthetic
+220,"Excellent customer service, the team went above and beyond. Would buy again.",4,positive,synthetic
+221,Best purchase I have made this year. Highly recommend.,4,positive,synthetic
+222,"Decent quality for the price, but packaging could be better. Will recommend to friends.",4,neutral,synthetic
+223,Worst purchase I have ever made. Avoid. Disappointed actually.,1,negative,synthetic
+224,Absolutely love this product — exceeded my expectations. Disappointed actually.,4,positive,synthetic
+225,Terrible experience — product broke after one week. Disappointed actually.,2,negative,synthetic
+226,Brilliant quality and the price was unbeatable.,5,positive,synthetic
+227,"It is okay, does the job but nothing special. Disappointed actually.",3,neutral,synthetic
+228,"It is okay, does the job but nothing special. Disappointed actually.",4,neutral,synthetic
+229,"Easy to use, well-built, and arrived earlier than expected. Not what I expected.",4,positive,synthetic
+230,"Excellent customer service, the team went above and beyond. Would buy again.",4,positive,synthetic
+231,Absolutely love this product — exceeded my expectations. Not what I expected.,5,positive,synthetic
+232,Customer service was unhelpful and rude. Not what I expected.,1,negative,synthetic
+233,"Mixed feelings — some features great, others lacking. Would buy again.",4,neutral,synthetic
+234,Customer service was unhelpful and rude.,1,negative,synthetic
+235,Customer service was unhelpful and rude. Brilliant service.,1,negative,synthetic
+236,Best purchase I have made this year. Highly recommend. Would buy again.,4,positive,synthetic
+237,One star. Product stopped working within a month.,1,negative,synthetic
+238,"Great value for money, fast delivery, would buy again. Not what I expected.",4,positive,synthetic
+239,Best purchase I have made this year. Highly recommend.,4,positive,synthetic
+240,Terrible experience — product broke after one week. Will recommend to friends.,2,negative,synthetic
+241,Customer service was unhelpful and rude. Really impressed.,1,negative,synthetic
+242,So happy with my order. Will definitely be a repeat customer. Would buy again.,5,positive,synthetic
+243,It is fine. Would not go out of my way to recommend. Really impressed.,2,neutral,synthetic
+244,"Decent quality for the price, but packaging could be better. Not what I expected.",3,neutral,synthetic
+245,Worst purchase I have ever made. Avoid. Would buy again.,1,negative,synthetic
+246,It is fine. Would not go out of my way to recommend. Brilliant service.,3,neutral,synthetic
+247,Best purchase I have made this year. Highly recommend. Would buy again.,4,positive,synthetic
+248,Five stars — works perfectly out of the box. Disappointed actually.,5,positive,synthetic
+249,So happy with my order. Will definitely be a repeat customer.,5,positive,synthetic
+250,"Mixed feelings — some features great, others lacking. Will recommend to friends.",2,neutral,synthetic
+251,"Late delivery, damaged packaging, poor quality. Disappointed actually.",1,negative,synthetic
+252,"Easy to use, well-built, and arrived earlier than expected.",4,positive,synthetic
+253,Brilliant quality and the price was unbeatable. Not what I expected.,5,positive,synthetic
+254,"Great value for money, fast delivery, would buy again. Would buy again.",4,positive,synthetic
+255,Terrible experience — product broke after one week. Really impressed.,2,negative,synthetic
+256,Very disappointed. The product felt cheap and flimsy. Brilliant service.,2,negative,synthetic
+257,"Great value for money, fast delivery, would buy again.",5,positive,synthetic
+258,"Great value for money, fast delivery, would buy again. Will recommend to friends.",5,positive,synthetic
+259,Works as described. No complaints but no praise either. Really impressed.,4,neutral,synthetic
+260,Five stars — works perfectly out of the box. Not what I expected.,4,positive,synthetic
+261,Did not match the description at all. Returning. Really impressed.,1,negative,synthetic
+262,Brilliant quality and the price was unbeatable.,4,positive,synthetic
+263,"Great value for money, fast delivery, would buy again. Not what I expected.",5,positive,synthetic
+264,Worst purchase I have ever made. Avoid.,1,negative,synthetic
+265,Brilliant quality and the price was unbeatable. Brilliant service.,5,positive,synthetic
+266,Five stars — works perfectly out of the box. Brilliant service.,4,positive,synthetic
+267,"Excellent customer service, the team went above and beyond. Disappointed actually.",5,positive,synthetic
+268,"Easy to use, well-built, and arrived earlier than expected. Would buy again.",5,positive,synthetic
+269,Five stars — works perfectly out of the box. Not what I expected.,5,positive,synthetic
+270,Absolutely love this product — exceeded my expectations. Would buy again.,5,positive,synthetic
+271,Five stars — works perfectly out of the box. Brilliant service.,5,positive,synthetic
+272,"Great value for money, fast delivery, would buy again. Disappointed actually.",5,positive,synthetic
+273,"Mixed feelings — some features great, others lacking. Disappointed actually.",3,neutral,synthetic
+274,"Decent quality for the price, but packaging could be better. Not what I expected.",2,neutral,synthetic
+275,"Great value for money, fast delivery, would buy again. Will recommend to friends.",4,positive,synthetic
+276,"Great value for money, fast delivery, would buy again. Really impressed.",4,positive,synthetic
+277,"Mixed feelings — some features great, others lacking. Brilliant service.",2,neutral,synthetic
+278,"Late delivery, damaged packaging, poor quality. Disappointed actually.",2,negative,synthetic
+279,"Late delivery, damaged packaging, poor quality.",1,negative,synthetic
+280,Best purchase I have made this year. Highly recommend. Will recommend to friends.,5,positive,synthetic
+281,Brilliant quality and the price was unbeatable. Will recommend to friends.,5,positive,synthetic
+282,Best purchase I have made this year. Highly recommend. Not what I expected.,5,positive,synthetic
+283,Five stars — works perfectly out of the box. Disappointed actually.,5,positive,synthetic
+284,"Reasonable product, but the instructions were unclear. Would buy again.",4,neutral,synthetic
+285,Five stars — works perfectly out of the box. Disappointed actually.,5,positive,synthetic
+286,Absolutely love this product — exceeded my expectations. Disappointed actually.,5,positive,synthetic
+287,"Great value for money, fast delivery, would buy again. Disappointed actually.",4,positive,synthetic
+288,Three stars. Met expectations but did not exceed them. Really impressed.,3,neutral,synthetic
+289,Five stars — works perfectly out of the box. Brilliant service.,5,positive,synthetic
+290,Terrible experience — product broke after one week. Would buy again.,1,negative,synthetic
+291,Absolutely love this product — exceeded my expectations. Would buy again.,5,positive,synthetic
+292,Would not recommend. Save your money. Would buy again.,1,negative,synthetic
+293,"Excellent customer service, the team went above and beyond. Would buy again.",4,positive,synthetic
+294,"Late delivery, damaged packaging, poor quality. Brilliant service.",1,negative,synthetic
+295,Did not match the description at all. Returning.,1,negative,synthetic
+296,Very disappointed. The product felt cheap and flimsy. Not what I expected.,1,negative,synthetic
+297,One star. Product stopped working within a month. Would buy again.,1,negative,synthetic
+298,Terrible experience — product broke after one week. Not what I expected.,2,negative,synthetic
+299,Average product. Delivery was on time. Brilliant service.,3,neutral,synthetic
+300,Customer service was unhelpful and rude. Brilliant service.,1,negative,synthetic
+301,"Excellent customer service, the team went above and beyond. Disappointed actually.",5,positive,synthetic
+302,"It is okay, does the job but nothing special. Disappointed actually.",4,neutral,synthetic
+303,It is fine. Would not go out of my way to recommend. Not what I expected.,2,neutral,synthetic
+304,Did not match the description at all. Returning. Not what I expected.,2,negative,synthetic
+305,So happy with my order. Will definitely be a repeat customer. Brilliant service.,5,positive,synthetic
+306,"Excellent customer service, the team went above and beyond. Really impressed.",5,positive,synthetic
+307,"It is okay, does the job but nothing special.",4,neutral,synthetic
+308,Five stars — works perfectly out of the box. Brilliant service.,4,positive,synthetic
+309,Brilliant quality and the price was unbeatable. Will recommend to friends.,5,positive,synthetic
+310,Absolutely love this product — exceeded my expectations. Disappointed actually.,5,positive,synthetic
+311,Brilliant quality and the price was unbeatable.,5,positive,synthetic
+312,Best purchase I have made this year. Highly recommend. Brilliant service.,5,positive,synthetic
+313,Best purchase I have made this year. Highly recommend. Brilliant service.,4,positive,synthetic
+314,"Great value for money, fast delivery, would buy again. Will recommend to friends.",4,positive,synthetic
+315,Brilliant quality and the price was unbeatable. Brilliant service.,5,positive,synthetic
+316,So happy with my order. Will definitely be a repeat customer. Brilliant service.,5,positive,synthetic
+317,"Mixed feelings — some features great, others lacking.",2,neutral,synthetic
+318,Best purchase I have made this year. Highly recommend. Would buy again.,5,positive,synthetic
+319,Did not match the description at all. Returning. Really impressed.,2,negative,synthetic
+320,Did not match the description at all. Returning. Really impressed.,1,negative,synthetic
+321,So happy with my order. Will definitely be a repeat customer. Really impressed.,5,positive,synthetic
+322,Absolutely love this product — exceeded my expectations. Not what I expected.,4,positive,synthetic
+323,"Mixed feelings — some features great, others lacking. Not what I expected.",4,neutral,synthetic
+324,Would not recommend. Save your money. Brilliant service.,1,negative,synthetic
+325,Three stars. Met expectations but did not exceed them. Brilliant service.,4,neutral,synthetic
+326,Worst purchase I have ever made. Avoid. Brilliant service.,1,negative,synthetic
+327,"Decent quality for the price, but packaging could be better. Disappointed actually.",3,neutral,synthetic
+328,"Mixed feelings — some features great, others lacking.",2,neutral,synthetic
+329,"Great value for money, fast delivery, would buy again. Will recommend to friends.",4,positive,synthetic
+330,One star. Product stopped working within a month. Not what I expected.,2,negative,synthetic
+331,Absolutely love this product — exceeded my expectations. Really impressed.,5,positive,synthetic
+332,"Reasonable product, but the instructions were unclear. Really impressed.",3,neutral,synthetic
+333,Worst purchase I have ever made. Avoid. Really impressed.,2,negative,synthetic
+334,Best purchase I have made this year. Highly recommend.,5,positive,synthetic
+335,"Reasonable product, but the instructions were unclear. Disappointed actually.",4,neutral,synthetic
+336,Brilliant quality and the price was unbeatable. Disappointed actually.,4,positive,synthetic
+337,"Late delivery, damaged packaging, poor quality. Brilliant service.",1,negative,synthetic
+338,Best purchase I have made this year. Highly recommend. Brilliant service.,5,positive,synthetic
+339,Worst purchase I have ever made. Avoid. Will recommend to friends.,1,negative,synthetic
+340,Absolutely love this product — exceeded my expectations.,4,positive,synthetic
+341,Worst purchase I have ever made. Avoid. Would buy again.,2,negative,synthetic
+342,One star. Product stopped working within a month. Not what I expected.,1,negative,synthetic
+343,It is fine. Would not go out of my way to recommend. Really impressed.,3,neutral,synthetic
+344,"Late delivery, damaged packaging, poor quality. Will recommend to friends.",2,negative,synthetic
+345,Customer service was unhelpful and rude. Disappointed actually.,1,negative,synthetic
+346,"Late delivery, damaged packaging, poor quality. Brilliant service.",1,negative,synthetic
+347,Brilliant quality and the price was unbeatable. Brilliant service.,5,positive,synthetic
+348,Three stars. Met expectations but did not exceed them.,3,neutral,synthetic
+349,Brilliant quality and the price was unbeatable.,4,positive,synthetic
+350,"It is okay, does the job but nothing special. Brilliant service.",4,neutral,synthetic
+351,"Great value for money, fast delivery, would buy again. Really impressed.",5,positive,synthetic
+352,"Decent quality for the price, but packaging could be better.",2,neutral,synthetic
+353,"Mixed feelings — some features great, others lacking. Will recommend to friends.",2,neutral,synthetic
+354,Five stars — works perfectly out of the box. Disappointed actually.,5,positive,synthetic
+355,"It is okay, does the job but nothing special.",2,neutral,synthetic
+356,Customer service was unhelpful and rude. Brilliant service.,1,negative,synthetic
+357,One star. Product stopped working within a month. Not what I expected.,1,negative,synthetic
+358,Brilliant quality and the price was unbeatable. Not what I expected.,5,positive,synthetic
+359,It is fine. Would not go out of my way to recommend. Will recommend to friends.,2,neutral,synthetic
+360,One star. Product stopped working within a month. Will recommend to friends.,2,negative,synthetic
+361,"Great value for money, fast delivery, would buy again.",5,positive,synthetic
+362,So happy with my order. Will definitely be a repeat customer. Disappointed actually.,5,positive,synthetic
+363,Best purchase I have made this year. Highly recommend.,4,positive,synthetic
+364,"Decent quality for the price, but packaging could be better. Will recommend to friends.",3,neutral,synthetic
+365,Absolutely love this product — exceeded my expectations. Brilliant service.,5,positive,synthetic
+366,One star. Product stopped working within a month. Brilliant service.,1,negative,synthetic
+367,"It is okay, does the job but nothing special. Not what I expected.",2,neutral,synthetic
+368,Best purchase I have made this year. Highly recommend. Will recommend to friends.,4,positive,synthetic
+369,Would not recommend. Save your money. Not what I expected.,1,negative,synthetic
+370,One star. Product stopped working within a month. Really impressed.,1,negative,synthetic
+371,"Great value for money, fast delivery, would buy again. Not what I expected.",5,positive,synthetic
+372,Brilliant quality and the price was unbeatable. Really impressed.,5,positive,synthetic
+373,Brilliant quality and the price was unbeatable. Really impressed.,5,positive,synthetic
+374,"Great value for money, fast delivery, would buy again. Would buy again.",5,positive,synthetic
+375,Five stars — works perfectly out of the box. Really impressed.,4,positive,synthetic
+376,"Late delivery, damaged packaging, poor quality. Will recommend to friends.",1,negative,synthetic
+377,So happy with my order. Will definitely be a repeat customer. Brilliant service.,5,positive,synthetic
+378,Brilliant quality and the price was unbeatable. Brilliant service.,5,positive,synthetic
+379,One star. Product stopped working within a month. Would buy again.,1,negative,synthetic
+380,"Decent quality for the price, but packaging could be better.",3,neutral,synthetic
+381,Did not match the description at all. Returning. Would buy again.,1,negative,synthetic
+382,Worst purchase I have ever made. Avoid. Really impressed.,1,negative,synthetic
+383,So happy with my order. Will definitely be a repeat customer. Would buy again.,5,positive,synthetic
+384,So happy with my order. Will definitely be a repeat customer. Not what I expected.,5,positive,synthetic
+385,Did not match the description at all. Returning. Will recommend to friends.,1,negative,synthetic
+386,"Late delivery, damaged packaging, poor quality. Really impressed.",2,negative,synthetic
+387,One star. Product stopped working within a month. Not what I expected.,1,negative,synthetic
+388,Absolutely love this product — exceeded my expectations. Not what I expected.,5,positive,synthetic
+389,"Late delivery, damaged packaging, poor quality. Would buy again.",1,negative,synthetic
+390,"Decent quality for the price, but packaging could be better. Would buy again.",4,neutral,synthetic
+391,Best purchase I have made this year. Highly recommend. Disappointed actually.,5,positive,synthetic
+392,Three stars. Met expectations but did not exceed them. Brilliant service.,2,neutral,synthetic
+393,It is fine. Would not go out of my way to recommend. Really impressed.,2,neutral,synthetic
+394,"Easy to use, well-built, and arrived earlier than expected.",5,positive,synthetic
+395,"Easy to use, well-built, and arrived earlier than expected. Brilliant service.",4,positive,synthetic
+396,Very disappointed. The product felt cheap and flimsy. Disappointed actually.,1,negative,synthetic
+397,Best purchase I have made this year. Highly recommend.,5,positive,synthetic
+398,"Easy to use, well-built, and arrived earlier than expected. Brilliant service.",5,positive,synthetic
+399,"Excellent customer service, the team went above and beyond. Will recommend to friends.",5,positive,synthetic
+400,"Great value for money, fast delivery, would buy again. Disappointed actually.",5,positive,synthetic
+401,"Late delivery, damaged packaging, poor quality. Brilliant service.",1,negative,synthetic
+402,Would not recommend. Save your money. Really impressed.,2,negative,synthetic
+403,"Great value for money, fast delivery, would buy again. Would buy again.",4,positive,synthetic
+404,Worst purchase I have ever made. Avoid. Disappointed actually.,1,negative,synthetic
+405,"Late delivery, damaged packaging, poor quality. Not what I expected.",1,negative,synthetic
+406,Best purchase I have made this year. Highly recommend. Really impressed.,5,positive,synthetic
+407,Worst purchase I have ever made. Avoid. Really impressed.,1,negative,synthetic
+408,"Excellent customer service, the team went above and beyond. Will recommend to friends.",5,positive,synthetic
+409,Terrible experience — product broke after one week.,2,negative,synthetic
+410,"It is okay, does the job but nothing special. Not what I expected.",4,neutral,synthetic
+411,Works as described. No complaints but no praise either.,4,neutral,synthetic
+412,"Easy to use, well-built, and arrived earlier than expected. Will recommend to friends.",5,positive,synthetic
+413,Customer service was unhelpful and rude. Would buy again.,2,negative,synthetic
+414,"Easy to use, well-built, and arrived earlier than expected. Will recommend to friends.",4,positive,synthetic
+415,So happy with my order. Will definitely be a repeat customer. Brilliant service.,5,positive,synthetic
+416,Best purchase I have made this year. Highly recommend. Would buy again.,5,positive,synthetic
+417,One star. Product stopped working within a month. Would buy again.,1,negative,synthetic
+418,"Easy to use, well-built, and arrived earlier than expected. Brilliant service.",5,positive,synthetic
+419,One star. Product stopped working within a month. Really impressed.,2,negative,synthetic
+420,Works as described. No complaints but no praise either. Not what I expected.,4,neutral,synthetic
+421,"Excellent customer service, the team went above and beyond. Disappointed actually.",5,positive,synthetic
+422,Absolutely love this product — exceeded my expectations. Not what I expected.,5,positive,synthetic
+423,"Great value for money, fast delivery, would buy again. Brilliant service.",5,positive,synthetic
+424,Three stars. Met expectations but did not exceed them. Really impressed.,3,neutral,synthetic
+425,Worst purchase I have ever made. Avoid. Really impressed.,1,negative,synthetic
+426,"Excellent customer service, the team went above and beyond.",4,positive,synthetic
+427,Very disappointed. The product felt cheap and flimsy. Disappointed actually.,1,negative,synthetic
+428,Absolutely love this product — exceeded my expectations. Not what I expected.,5,positive,synthetic
+429,Worst purchase I have ever made. Avoid. Disappointed actually.,1,negative,synthetic
+430,Customer service was unhelpful and rude. Really impressed.,2,negative,synthetic
+431,Very disappointed. The product felt cheap and flimsy. Disappointed actually.,1,negative,synthetic
+432,"Mixed feelings — some features great, others lacking.",2,neutral,synthetic
+433,Very disappointed. The product felt cheap and flimsy. Would buy again.,1,negative,synthetic
+434,Brilliant quality and the price was unbeatable. Brilliant service.,4,positive,synthetic
+435,"Easy to use, well-built, and arrived earlier than expected. Really impressed.",5,positive,synthetic
+436,So happy with my order. Will definitely be a repeat customer. Disappointed actually.,4,positive,synthetic
+437,"Reasonable product, but the instructions were unclear. Would buy again.",3,neutral,synthetic
+438,Did not match the description at all. Returning. Will recommend to friends.,2,negative,synthetic
+439,"Reasonable product, but the instructions were unclear. Brilliant service.",4,neutral,synthetic
+440,Very disappointed. The product felt cheap and flimsy.,1,negative,synthetic
+441,Five stars — works perfectly out of the box. Not what I expected.,4,positive,synthetic
+442,Worst purchase I have ever made. Avoid. Would buy again.,1,negative,synthetic
+443,Five stars — works perfectly out of the box. Brilliant service.,4,positive,synthetic
+444,"Easy to use, well-built, and arrived earlier than expected. Really impressed.",4,positive,synthetic
+445,Worst purchase I have ever made. Avoid. Really impressed.,1,negative,synthetic
+446,"Late delivery, damaged packaging, poor quality. Would buy again.",2,negative,synthetic
+447,"Reasonable product, but the instructions were unclear. Really impressed.",3,neutral,synthetic
+448,"Great value for money, fast delivery, would buy again. Will recommend to friends.",5,positive,synthetic
+449,"Decent quality for the price, but packaging could be better. Disappointed actually.",2,neutral,synthetic
+450,Best purchase I have made this year. Highly recommend. Not what I expected.,5,positive,synthetic
+451,"Late delivery, damaged packaging, poor quality. Brilliant service.",1,negative,synthetic
+452,Would not recommend. Save your money. Will recommend to friends.,2,negative,synthetic
+453,Brilliant quality and the price was unbeatable. Will recommend to friends.,5,positive,synthetic
+454,"Great value for money, fast delivery, would buy again.",5,positive,synthetic
+455,"Excellent customer service, the team went above and beyond.",4,positive,synthetic
+456,Did not match the description at all. Returning. Not what I expected.,1,negative,synthetic
+457,Best purchase I have made this year. Highly recommend. Would buy again.,5,positive,synthetic
+458,One star. Product stopped working within a month. Will recommend to friends.,2,negative,synthetic
+459,"Mixed feelings — some features great, others lacking. Disappointed actually.",3,neutral,synthetic
+460,Works as described. No complaints but no praise either. Would buy again.,4,neutral,synthetic
+461,"Great value for money, fast delivery, would buy again.",5,positive,synthetic
+462,One star. Product stopped working within a month. Would buy again.,1,negative,synthetic
+463,So happy with my order. Will definitely be a repeat customer. Will recommend to friends.,4,positive,synthetic
+464,It is fine. Would not go out of my way to recommend. Really impressed.,3,neutral,synthetic
+465,"Reasonable product, but the instructions were unclear. Really impressed.",4,neutral,synthetic
+466,Three stars. Met expectations but did not exceed them. Really impressed.,3,neutral,synthetic
+467,Terrible experience — product broke after one week. Disappointed actually.,1,negative,synthetic
+468,Best purchase I have made this year. Highly recommend. Disappointed actually.,5,positive,synthetic
+469,Three stars. Met expectations but did not exceed them. Brilliant service.,2,neutral,synthetic
+470,So happy with my order. Will definitely be a repeat customer. Disappointed actually.,5,positive,synthetic
+471,Absolutely love this product — exceeded my expectations. Disappointed actually.,4,positive,synthetic
+472,So happy with my order. Will definitely be a repeat customer. Disappointed actually.,4,positive,synthetic
+473,"Easy to use, well-built, and arrived earlier than expected. Will recommend to friends.",5,positive,synthetic
+474,Absolutely love this product — exceeded my expectations. Not what I expected.,5,positive,synthetic
+475,Brilliant quality and the price was unbeatable.,5,positive,synthetic
+476,Five stars — works perfectly out of the box. Brilliant service.,5,positive,synthetic
+477,Three stars. Met expectations but did not exceed them. Really impressed.,4,neutral,synthetic
+478,Three stars. Met expectations but did not exceed them.,3,neutral,synthetic
+479,Best purchase I have made this year. Highly recommend. Not what I expected.,5,positive,synthetic
+480,"Easy to use, well-built, and arrived earlier than expected. Brilliant service.",5,positive,synthetic
+481,Best purchase I have made this year. Highly recommend. Brilliant service.,4,positive,synthetic
+482,"Decent quality for the price, but packaging could be better. Disappointed actually.",3,neutral,synthetic
+483,So happy with my order. Will definitely be a repeat customer. Really impressed.,4,positive,synthetic
+484,"Easy to use, well-built, and arrived earlier than expected. Disappointed actually.",5,positive,synthetic
+485,Absolutely love this product — exceeded my expectations. Will recommend to friends.,4,positive,synthetic
+486,So happy with my order. Will definitely be a repeat customer. Will recommend to friends.,5,positive,synthetic
+487,Brilliant quality and the price was unbeatable.,5,positive,synthetic
+488,Three stars. Met expectations but did not exceed them. Not what I expected.,4,neutral,synthetic
+489,"Mixed feelings — some features great, others lacking. Really impressed.",3,neutral,synthetic
+490,Very disappointed. The product felt cheap and flimsy. Disappointed actually.,1,negative,synthetic
+491,"Mixed feelings — some features great, others lacking. Disappointed actually.",4,neutral,synthetic
+492,"It is okay, does the job but nothing special. Disappointed actually.",3,neutral,synthetic
+493,So happy with my order. Will definitely be a repeat customer. Disappointed actually.,5,positive,synthetic
+494,Terrible experience — product broke after one week. Brilliant service.,1,negative,synthetic
+495,Average product. Delivery was on time. Not what I expected.,3,neutral,synthetic
+496,So happy with my order. Will definitely be a repeat customer. Really impressed.,5,positive,synthetic
+497,"Mixed feelings — some features great, others lacking. Disappointed actually.",3,neutral,synthetic
+498,"Easy to use, well-built, and arrived earlier than expected. Would buy again.",5,positive,synthetic
+499,"Mixed feelings — some features great, others lacking. Not what I expected.",3,neutral,synthetic
+500,Terrible experience — product broke after one week. Disappointed actually.,2,negative,synthetic
+501,"Late delivery, damaged packaging, poor quality. Brilliant service.",2,negative,synthetic
+502,One star. Product stopped working within a month. Will recommend to friends.,1,negative,synthetic
+503,It is fine. Would not go out of my way to recommend. Will recommend to friends.,3,neutral,synthetic
+504,Works as described. No complaints but no praise either. Will recommend to friends.,4,neutral,synthetic
+505,Very disappointed. The product felt cheap and flimsy. Would buy again.,1,negative,synthetic
+506,Brilliant quality and the price was unbeatable.,5,positive,synthetic
+507,Would not recommend. Save your money. Not what I expected.,1,negative,synthetic
+508,So happy with my order. Will definitely be a repeat customer. Not what I expected.,4,positive,synthetic
+509,Five stars — works perfectly out of the box. Will recommend to friends.,5,positive,synthetic
+510,So happy with my order. Will definitely be a repeat customer. Would buy again.,4,positive,synthetic
+511,"Late delivery, damaged packaging, poor quality. Would buy again.",1,negative,synthetic
+512,"Great value for money, fast delivery, would buy again. Would buy again.",5,positive,synthetic
+513,"Easy to use, well-built, and arrived earlier than expected.",5,positive,synthetic
+514,Absolutely love this product — exceeded my expectations. Really impressed.,5,positive,synthetic
+515,Absolutely love this product — exceeded my expectations. Disappointed actually.,4,positive,synthetic
+516,Brilliant quality and the price was unbeatable. Not what I expected.,4,positive,synthetic
+517,Worst purchase I have ever made. Avoid.,2,negative,synthetic
+518,"Great value for money, fast delivery, would buy again. Disappointed actually.",4,positive,synthetic
+519,Terrible experience — product broke after one week. Really impressed.,1,negative,synthetic
+520,Terrible experience — product broke after one week. Would buy again.,1,negative,synthetic
+521,Best purchase I have made this year. Highly recommend. Would buy again.,5,positive,synthetic
+522,Best purchase I have made this year. Highly recommend. Really impressed.,5,positive,synthetic
+523,"It is okay, does the job but nothing special. Disappointed actually.",4,neutral,synthetic
+524,"Excellent customer service, the team went above and beyond. Really impressed.",5,positive,synthetic
+525,Best purchase I have made this year. Highly recommend. Disappointed actually.,4,positive,synthetic
+526,Did not match the description at all. Returning. Disappointed actually.,1,negative,synthetic
+527,Very disappointed. The product felt cheap and flimsy. Disappointed actually.,1,negative,synthetic
+528,Customer service was unhelpful and rude. Disappointed actually.,1,negative,synthetic
+529,Best purchase I have made this year. Highly recommend. Would buy again.,4,positive,synthetic
+530,"Reasonable product, but the instructions were unclear. Really impressed.",2,neutral,synthetic
+531,"Late delivery, damaged packaging, poor quality. Would buy again.",1,negative,synthetic
+532,Brilliant quality and the price was unbeatable. Will recommend to friends.,5,positive,synthetic
+533,"Mixed feelings — some features great, others lacking. Disappointed actually.",4,neutral,synthetic
+534,"Great value for money, fast delivery, would buy again. Really impressed.",4,positive,synthetic
+535,"Excellent customer service, the team went above and beyond. Would buy again.",5,positive,synthetic
+536,"Decent quality for the price, but packaging could be better. Really impressed.",4,neutral,synthetic
+537,"Great value for money, fast delivery, would buy again. Will recommend to friends.",5,positive,synthetic
+538,Absolutely love this product — exceeded my expectations.,5,positive,synthetic
+539,"Late delivery, damaged packaging, poor quality. Really impressed.",1,negative,synthetic
+540,One star. Product stopped working within a month. Not what I expected.,2,negative,synthetic
+541,Three stars. Met expectations but did not exceed them. Really impressed.,2,neutral,synthetic
+542,Worst purchase I have ever made. Avoid. Would buy again.,1,negative,synthetic
+543,Customer service was unhelpful and rude. Really impressed.,1,negative,synthetic
+544,Best purchase I have made this year. Highly recommend. Really impressed.,5,positive,synthetic
+545,"Great value for money, fast delivery, would buy again. Would buy again.",5,positive,synthetic
+546,Five stars — works perfectly out of the box. Disappointed actually.,4,positive,synthetic
+547,"Great value for money, fast delivery, would buy again. Brilliant service.",5,positive,synthetic
+548,Terrible experience — product broke after one week. Really impressed.,1,negative,synthetic
+549,Brilliant quality and the price was unbeatable. Really impressed.,4,positive,synthetic
+550,So happy with my order. Will definitely be a repeat customer. Would buy again.,4,positive,synthetic
+551,Brilliant quality and the price was unbeatable.,5,positive,synthetic
+552,"Great value for money, fast delivery, would buy again. Will recommend to friends.",4,positive,synthetic
+553,Would not recommend. Save your money. Brilliant service.,1,negative,synthetic
+554,Absolutely love this product — exceeded my expectations. Brilliant service.,4,positive,synthetic
+555,So happy with my order. Will definitely be a repeat customer. Not what I expected.,5,positive,synthetic
+556,"Easy to use, well-built, and arrived earlier than expected.",5,positive,synthetic
+557,"Great value for money, fast delivery, would buy again. Would buy again.",5,positive,synthetic
+558,Three stars. Met expectations but did not exceed them. Will recommend to friends.,3,neutral,synthetic
+559,Brilliant quality and the price was unbeatable.,5,positive,synthetic
+560,"Easy to use, well-built, and arrived earlier than expected. Will recommend to friends.",5,positive,synthetic
+561,"Excellent customer service, the team went above and beyond. Not what I expected.",5,positive,synthetic
+562,One star. Product stopped working within a month. Not what I expected.,2,negative,synthetic
+563,"Mixed feelings — some features great, others lacking. Disappointed actually.",4,neutral,synthetic
+564,"Decent quality for the price, but packaging could be better. Not what I expected.",4,neutral,synthetic
+565,"Reasonable product, but the instructions were unclear. Would buy again.",3,neutral,synthetic
+566,Very disappointed. The product felt cheap and flimsy. Disappointed actually.,1,negative,synthetic
+567,So happy with my order. Will definitely be a repeat customer. Will recommend to friends.,4,positive,synthetic
+568,Five stars — works perfectly out of the box. Will recommend to friends.,5,positive,synthetic
+569,It is fine. Would not go out of my way to recommend. Not what I expected.,3,neutral,synthetic
+570,Best purchase I have made this year. Highly recommend. Not what I expected.,5,positive,synthetic
+571,Customer service was unhelpful and rude. Not what I expected.,1,negative,synthetic
+572,Five stars — works perfectly out of the box. Disappointed actually.,5,positive,synthetic
+573,Very disappointed. The product felt cheap and flimsy. Will recommend to friends.,2,negative,synthetic
+574,Worst purchase I have ever made. Avoid. Brilliant service.,1,negative,synthetic
+575,"Reasonable product, but the instructions were unclear. Will recommend to friends.",2,neutral,synthetic
+576,One star. Product stopped working within a month. Really impressed.,2,negative,synthetic
+577,It is fine. Would not go out of my way to recommend.,4,neutral,synthetic
+578,Terrible experience — product broke after one week. Disappointed actually.,2,negative,synthetic
+579,"Easy to use, well-built, and arrived earlier than expected. Will recommend to friends.",5,positive,synthetic
+580,Brilliant quality and the price was unbeatable.,5,positive,synthetic
+581,"Mixed feelings — some features great, others lacking. Really impressed.",2,neutral,synthetic
+582,"Easy to use, well-built, and arrived earlier than expected.",5,positive,synthetic
+583,Best purchase I have made this year. Highly recommend. Disappointed actually.,4,positive,synthetic
+584,Would not recommend. Save your money. Disappointed actually.,1,negative,synthetic
+585,"Decent quality for the price, but packaging could be better. Will recommend to friends.",4,neutral,synthetic
+586,Brilliant quality and the price was unbeatable. Not what I expected.,5,positive,synthetic
+587,Five stars — works perfectly out of the box. Brilliant service.,5,positive,synthetic
+588,Five stars — works perfectly out of the box. Will recommend to friends.,4,positive,synthetic
+589,Absolutely love this product — exceeded my expectations. Really impressed.,4,positive,synthetic
+590,Worst purchase I have ever made. Avoid. Really impressed.,1,negative,synthetic
+591,"Great value for money, fast delivery, would buy again. Disappointed actually.",4,positive,synthetic
+592,Best purchase I have made this year. Highly recommend. Will recommend to friends.,5,positive,synthetic
+593,Three stars. Met expectations but did not exceed them. Disappointed actually.,3,neutral,synthetic
+594,"Easy to use, well-built, and arrived earlier than expected.",5,positive,synthetic
+595,Best purchase I have made this year. Highly recommend.,5,positive,synthetic
+596,Very disappointed. The product felt cheap and flimsy. Will recommend to friends.,1,negative,synthetic
+597,"Reasonable product, but the instructions were unclear. Disappointed actually.",2,neutral,synthetic
+598,Very disappointed. The product felt cheap and flimsy. Really impressed.,2,negative,synthetic
+599,"It is okay, does the job but nothing special. Brilliant service.",2,neutral,synthetic
+600,"Great value for money, fast delivery, would buy again. Brilliant service.",5,positive,synthetic
+601,"Late delivery, damaged packaging, poor quality. Disappointed actually.",1,negative,synthetic
+602,Worst purchase I have ever made. Avoid. Would buy again.,2,negative,synthetic
+603,One star. Product stopped working within a month. Brilliant service.,2,negative,synthetic
+604,Worst purchase I have ever made. Avoid. Would buy again.,1,negative,synthetic
+605,"Late delivery, damaged packaging, poor quality. Brilliant service.",1,negative,synthetic
+606,Would not recommend. Save your money. Would buy again.,2,negative,synthetic
+607,"Easy to use, well-built, and arrived earlier than expected. Not what I expected.",4,positive,synthetic
+608,Would not recommend. Save your money.,1,negative,synthetic
+609,So happy with my order. Will definitely be a repeat customer. Brilliant service.,5,positive,synthetic
+610,It is fine. Would not go out of my way to recommend. Will recommend to friends.,2,neutral,synthetic
+611,It is fine. Would not go out of my way to recommend. Disappointed actually.,4,neutral,synthetic
+612,Very disappointed. The product felt cheap and flimsy. Will recommend to friends.,2,negative,synthetic
+613,"Late delivery, damaged packaging, poor quality. Will recommend to friends.",1,negative,synthetic
+614,Five stars — works perfectly out of the box. Disappointed actually.,5,positive,synthetic
+615,"Late delivery, damaged packaging, poor quality. Disappointed actually.",1,negative,synthetic
+616,Worst purchase I have ever made. Avoid. Will recommend to friends.,1,negative,synthetic
+617,"Great value for money, fast delivery, would buy again. Will recommend to friends.",5,positive,synthetic
+618,Best purchase I have made this year. Highly recommend. Would buy again.,5,positive,synthetic
+619,Brilliant quality and the price was unbeatable. Brilliant service.,4,positive,synthetic
+620,Customer service was unhelpful and rude. Really impressed.,1,negative,synthetic
+621,"Excellent customer service, the team went above and beyond. Brilliant service.",5,positive,synthetic
+622,Worst purchase I have ever made. Avoid. Disappointed actually.,2,negative,synthetic
+623,Best purchase I have made this year. Highly recommend. Disappointed actually.,4,positive,synthetic
+624,Very disappointed. The product felt cheap and flimsy.,1,negative,synthetic
+625,Five stars — works perfectly out of the box. Would buy again.,5,positive,synthetic
+626,"Late delivery, damaged packaging, poor quality. Really impressed.",1,negative,synthetic
+627,"Great value for money, fast delivery, would buy again. Really impressed.",4,positive,synthetic
+628,Works as described. No complaints but no praise either. Really impressed.,2,neutral,synthetic
+629,"Late delivery, damaged packaging, poor quality. Not what I expected.",1,negative,synthetic
+630,Worst purchase I have ever made. Avoid. Not what I expected.,1,negative,synthetic
+631,Would not recommend. Save your money. Disappointed actually.,2,negative,synthetic
+632,"Excellent customer service, the team went above and beyond. Not what I expected.",5,positive,synthetic
+633,Five stars — works perfectly out of the box. Disappointed actually.,5,positive,synthetic
+634,Absolutely love this product — exceeded my expectations.,5,positive,synthetic
+635,"Excellent customer service, the team went above and beyond. Really impressed.",5,positive,synthetic
+636,"Decent quality for the price, but packaging could be better. Will recommend to friends.",3,neutral,synthetic
+637,Terrible experience — product broke after one week. Really impressed.,2,negative,synthetic
+638,Terrible experience — product broke after one week.,1,negative,synthetic
+639,"Late delivery, damaged packaging, poor quality. Brilliant service.",2,negative,synthetic
+640,Did not match the description at all. Returning.,2,negative,synthetic
+641,Very disappointed. The product felt cheap and flimsy. Brilliant service.,1,negative,synthetic
+642,"Great value for money, fast delivery, would buy again. Would buy again.",5,positive,synthetic
+643,Absolutely love this product — exceeded my expectations.,4,positive,synthetic
+644,"Decent quality for the price, but packaging could be better. Really impressed.",2,neutral,synthetic
+645,Very disappointed. The product felt cheap and flimsy. Would buy again.,1,negative,synthetic
+646,"Easy to use, well-built, and arrived earlier than expected. Really impressed.",4,positive,synthetic
+647,"Reasonable product, but the instructions were unclear. Really impressed.",4,neutral,synthetic
+648,It is fine. Would not go out of my way to recommend. Really impressed.,4,neutral,synthetic
+649,"Excellent customer service, the team went above and beyond. Not what I expected.",5,positive,synthetic
+650,Absolutely love this product — exceeded my expectations. Will recommend to friends.,4,positive,synthetic
+651,"Late delivery, damaged packaging, poor quality. Will recommend to friends.",1,negative,synthetic
+652,"Reasonable product, but the instructions were unclear.",2,neutral,synthetic
+653,"Great value for money, fast delivery, would buy again. Really impressed.",4,positive,synthetic
+654,Customer service was unhelpful and rude.,2,negative,synthetic
+655,So happy with my order. Will definitely be a repeat customer. Not what I expected.,5,positive,synthetic
+656,Very disappointed. The product felt cheap and flimsy. Brilliant service.,1,negative,synthetic
+657,"Great value for money, fast delivery, would buy again. Would buy again.",5,positive,synthetic
+658,"It is okay, does the job but nothing special. Will recommend to friends.",3,neutral,synthetic
+659,"Excellent customer service, the team went above and beyond. Really impressed.",4,positive,synthetic
+660,"Excellent customer service, the team went above and beyond.",4,positive,synthetic
+661,"Late delivery, damaged packaging, poor quality. Disappointed actually.",1,negative,synthetic
+662,"Great value for money, fast delivery, would buy again. Not what I expected.",5,positive,synthetic
+663,Best purchase I have made this year. Highly recommend. Really impressed.,4,positive,synthetic
+664,"Great value for money, fast delivery, would buy again. Would buy again.",5,positive,synthetic
+665,One star. Product stopped working within a month. Will recommend to friends.,2,negative,synthetic
+666,Worst purchase I have ever made. Avoid. Really impressed.,2,negative,synthetic
+667,One star. Product stopped working within a month.,1,negative,synthetic
+668,"Easy to use, well-built, and arrived earlier than expected. Not what I expected.",4,positive,synthetic
+669,"Easy to use, well-built, and arrived earlier than expected. Brilliant service.",5,positive,synthetic
+670,Five stars — works perfectly out of the box. Not what I expected.,4,positive,synthetic
+671,Three stars. Met expectations but did not exceed them.,3,neutral,synthetic
+672,"Late delivery, damaged packaging, poor quality. Not what I expected.",2,negative,synthetic
+673,Terrible experience — product broke after one week. Will recommend to friends.,1,negative,synthetic
+674,Average product. Delivery was on time.,4,neutral,synthetic
+675,Best purchase I have made this year. Highly recommend. Really impressed.,5,positive,synthetic
+676,Worst purchase I have ever made. Avoid.,2,negative,synthetic
+677,Five stars — works perfectly out of the box. Brilliant service.,5,positive,synthetic
+678,"Great value for money, fast delivery, would buy again.",5,positive,synthetic
+679,"Excellent customer service, the team went above and beyond. Really impressed.",5,positive,synthetic
+680,Best purchase I have made this year. Highly recommend. Brilliant service.,5,positive,synthetic
+681,"Excellent customer service, the team went above and beyond.",5,positive,synthetic
+682,"Great value for money, fast delivery, would buy again. Really impressed.",5,positive,synthetic
+683,"Excellent customer service, the team went above and beyond. Will recommend to friends.",4,positive,synthetic
+684,"It is okay, does the job but nothing special. Would buy again.",2,neutral,synthetic
+685,So happy with my order. Will definitely be a repeat customer. Brilliant service.,4,positive,synthetic
+686,"Easy to use, well-built, and arrived earlier than expected. Would buy again.",5,positive,synthetic
+687,Very disappointed. The product felt cheap and flimsy. Will recommend to friends.,1,negative,synthetic
+688,"Late delivery, damaged packaging, poor quality. Not what I expected.",1,negative,synthetic
+689,"It is okay, does the job but nothing special. Brilliant service.",3,neutral,synthetic
+690,Best purchase I have made this year. Highly recommend. Disappointed actually.,5,positive,synthetic
+691,"Late delivery, damaged packaging, poor quality. Brilliant service.",2,negative,synthetic
+692,Five stars — works perfectly out of the box. Disappointed actually.,4,positive,synthetic
+693,"Easy to use, well-built, and arrived earlier than expected. Disappointed actually.",5,positive,synthetic
+694,Customer service was unhelpful and rude. Would buy again.,2,negative,synthetic
+695,Works as described. No complaints but no praise either. Really impressed.,3,neutral,synthetic
+696,"Late delivery, damaged packaging, poor quality. Disappointed actually.",1,negative,synthetic
+697,Works as described. No complaints but no praise either. Would buy again.,4,neutral,synthetic
+698,Three stars. Met expectations but did not exceed them. Not what I expected.,4,neutral,synthetic
+699,"Great value for money, fast delivery, would buy again.",5,positive,synthetic
+700,Best purchase I have made this year. Highly recommend. Disappointed actually.,5,positive,synthetic
+701,"Excellent customer service, the team went above and beyond. Really impressed.",5,positive,synthetic
+702,Five stars — works perfectly out of the box. Would buy again.,5,positive,synthetic
+703,Did not match the description at all. Returning. Would buy again.,1,negative,synthetic
+704,"Great value for money, fast delivery, would buy again. Will recommend to friends.",5,positive,synthetic
+705,"It is okay, does the job but nothing special.",4,neutral,synthetic
+706,Did not match the description at all. Returning. Really impressed.,1,negative,synthetic
+707,"Late delivery, damaged packaging, poor quality. Will recommend to friends.",1,negative,synthetic
+708,Five stars — works perfectly out of the box. Will recommend to friends.,5,positive,synthetic
+709,"Easy to use, well-built, and arrived earlier than expected.",4,positive,synthetic
+710,Customer service was unhelpful and rude. Not what I expected.,2,negative,synthetic
+711,"Reasonable product, but the instructions were unclear. Will recommend to friends.",3,neutral,synthetic
+712,"Late delivery, damaged packaging, poor quality. Will recommend to friends.",2,negative,synthetic
+713,One star. Product stopped working within a month. Not what I expected.,2,negative,synthetic
+714,"Late delivery, damaged packaging, poor quality. Disappointed actually.",1,negative,synthetic
+715,"Easy to use, well-built, and arrived earlier than expected. Really impressed.",5,positive,synthetic
+716,"Reasonable product, but the instructions were unclear. Really impressed.",3,neutral,synthetic
+717,"Great value for money, fast delivery, would buy again. Really impressed.",5,positive,synthetic
+718,"It is okay, does the job but nothing special. Would buy again.",3,neutral,synthetic
+719,One star. Product stopped working within a month. Brilliant service.,2,negative,synthetic
+720,It is fine. Would not go out of my way to recommend. Brilliant service.,2,neutral,synthetic
+721,Five stars — works perfectly out of the box. Not what I expected.,4,positive,synthetic
+722,Absolutely love this product — exceeded my expectations. Brilliant service.,5,positive,synthetic
+723,Customer service was unhelpful and rude. Would buy again.,1,negative,synthetic
+724,Best purchase I have made this year. Highly recommend. Will recommend to friends.,5,positive,synthetic
+725,Absolutely love this product — exceeded my expectations. Not what I expected.,4,positive,synthetic
+726,Five stars — works perfectly out of the box. Not what I expected.,5,positive,synthetic
+727,Absolutely love this product — exceeded my expectations. Disappointed actually.,5,positive,synthetic
+728,"Excellent customer service, the team went above and beyond. Disappointed actually.",4,positive,synthetic
+729,"Reasonable product, but the instructions were unclear. Disappointed actually.",3,neutral,synthetic
+730,"Easy to use, well-built, and arrived earlier than expected. Would buy again.",5,positive,synthetic
+731,Five stars — works perfectly out of the box. Brilliant service.,4,positive,synthetic
+732,"Excellent customer service, the team went above and beyond. Would buy again.",5,positive,synthetic
+733,So happy with my order. Will definitely be a repeat customer. Not what I expected.,4,positive,synthetic
+734,"Easy to use, well-built, and arrived earlier than expected. Not what I expected.",5,positive,synthetic
+735,Average product. Delivery was on time. Really impressed.,4,neutral,synthetic
+736,"Easy to use, well-built, and arrived earlier than expected. Disappointed actually.",5,positive,synthetic
+737,Brilliant quality and the price was unbeatable. Would buy again.,4,positive,synthetic
+738,So happy with my order. Will definitely be a repeat customer. Not what I expected.,5,positive,synthetic
+739,Brilliant quality and the price was unbeatable. Would buy again.,5,positive,synthetic
+740,Brilliant quality and the price was unbeatable. Disappointed actually.,4,positive,synthetic
+741,"Great value for money, fast delivery, would buy again. Disappointed actually.",4,positive,synthetic
+742,Did not match the description at all. Returning. Would buy again.,1,negative,synthetic
+743,Brilliant quality and the price was unbeatable. Would buy again.,5,positive,synthetic
+744,Three stars. Met expectations but did not exceed them. Not what I expected.,4,neutral,synthetic
+745,"Easy to use, well-built, and arrived earlier than expected.",5,positive,synthetic
+746,Five stars — works perfectly out of the box. Would buy again.,5,positive,synthetic
+747,So happy with my order. Will definitely be a repeat customer. Brilliant service.,5,positive,synthetic
+748,Terrible experience — product broke after one week.,1,negative,synthetic
+749,Very disappointed. The product felt cheap and flimsy.,1,negative,synthetic
+750,"Great value for money, fast delivery, would buy again.",5,positive,synthetic
+751,Brilliant quality and the price was unbeatable. Would buy again.,4,positive,synthetic
+752,Five stars — works perfectly out of the box.,5,positive,synthetic
+753,Brilliant quality and the price was unbeatable. Disappointed actually.,5,positive,synthetic
+754,Average product. Delivery was on time.,3,neutral,synthetic
+755,So happy with my order. Will definitely be a repeat customer. Brilliant service.,5,positive,synthetic
+756,Absolutely love this product — exceeded my expectations.,4,positive,synthetic
+757,Very disappointed. The product felt cheap and flimsy. Really impressed.,2,negative,synthetic
+758,So happy with my order. Will definitely be a repeat customer. Really impressed.,5,positive,synthetic
+759,Absolutely love this product — exceeded my expectations. Will recommend to friends.,5,positive,synthetic
+760,Worst purchase I have ever made. Avoid. Disappointed actually.,1,negative,synthetic
+761,Brilliant quality and the price was unbeatable. Disappointed actually.,4,positive,synthetic
+762,"Easy to use, well-built, and arrived earlier than expected. Would buy again.",4,positive,synthetic
+763,"Easy to use, well-built, and arrived earlier than expected.",4,positive,synthetic
+764,Terrible experience — product broke after one week. Really impressed.,1,negative,synthetic
+765,Best purchase I have made this year. Highly recommend. Would buy again.,4,positive,synthetic
+766,Five stars — works perfectly out of the box.,5,positive,synthetic
+767,"Excellent customer service, the team went above and beyond.",4,positive,synthetic
+768,Five stars — works perfectly out of the box.,4,positive,synthetic
+769,"Reasonable product, but the instructions were unclear. Not what I expected.",4,neutral,synthetic
+770,"Easy to use, well-built, and arrived earlier than expected. Disappointed actually.",5,positive,synthetic
+771,Average product. Delivery was on time.,4,neutral,synthetic
+772,"It is okay, does the job but nothing special.",3,neutral,synthetic
+773,Worst purchase I have ever made. Avoid. Would buy again.,2,negative,synthetic
+774,"Excellent customer service, the team went above and beyond. Would buy again.",5,positive,synthetic
+775,"Late delivery, damaged packaging, poor quality. Not what I expected.",1,negative,synthetic
+776,"It is okay, does the job but nothing special. Brilliant service.",4,neutral,synthetic
+777,So happy with my order. Will definitely be a repeat customer. Would buy again.,5,positive,synthetic
+778,Customer service was unhelpful and rude. Will recommend to friends.,1,negative,synthetic
+779,Worst purchase I have ever made. Avoid. Really impressed.,1,negative,synthetic
+780,"Great value for money, fast delivery, would buy again.",4,positive,synthetic
+781,Very disappointed. The product felt cheap and flimsy. Would buy again.,2,negative,synthetic
+782,"Great value for money, fast delivery, would buy again. Disappointed actually.",4,positive,synthetic
+783,"Mixed feelings — some features great, others lacking. Would buy again.",2,neutral,synthetic
+784,Very disappointed. The product felt cheap and flimsy. Disappointed actually.,1,negative,synthetic
+785,Five stars — works perfectly out of the box. Disappointed actually.,5,positive,synthetic
+786,"Late delivery, damaged packaging, poor quality. Will recommend to friends.",1,negative,synthetic
+787,So happy with my order. Will definitely be a repeat customer. Brilliant service.,5,positive,synthetic
+788,Very disappointed. The product felt cheap and flimsy. Will recommend to friends.,2,negative,synthetic
+789,"Reasonable product, but the instructions were unclear. Brilliant service.",2,neutral,synthetic
+790,Best purchase I have made this year. Highly recommend. Brilliant service.,5,positive,synthetic
+791,"Easy to use, well-built, and arrived earlier than expected. Really impressed.",4,positive,synthetic
+792,"Excellent customer service, the team went above and beyond. Disappointed actually.",4,positive,synthetic
+793,So happy with my order. Will definitely be a repeat customer. Not what I expected.,5,positive,synthetic
+794,Best purchase I have made this year. Highly recommend. Will recommend to friends.,5,positive,synthetic
+795,"Excellent customer service, the team went above and beyond.",4,positive,synthetic
+796,"Great value for money, fast delivery, would buy again. Brilliant service.",5,positive,synthetic
+797,Five stars — works perfectly out of the box. Really impressed.,4,positive,synthetic
+798,One star. Product stopped working within a month. Would buy again.,1,negative,synthetic
+799,Would not recommend. Save your money. Really impressed.,1,negative,synthetic
+800,"Late delivery, damaged packaging, poor quality. Not what I expected.",1,negative,synthetic
+801,Absolutely love this product — exceeded my expectations. Really impressed.,5,positive,synthetic
+802,"Late delivery, damaged packaging, poor quality. Brilliant service.",1,negative,synthetic
+803,"Decent quality for the price, but packaging could be better. Would buy again.",4,neutral,synthetic
+804,"Easy to use, well-built, and arrived earlier than expected. Will recommend to friends.",5,positive,synthetic
+805,"Excellent customer service, the team went above and beyond. Not what I expected.",5,positive,synthetic
+806,"Reasonable product, but the instructions were unclear. Will recommend to friends.",2,neutral,synthetic
+807,"Easy to use, well-built, and arrived earlier than expected. Disappointed actually.",5,positive,synthetic
+808,It is fine. Would not go out of my way to recommend.,3,neutral,synthetic
+809,Would not recommend. Save your money. Not what I expected.,1,negative,synthetic
+810,So happy with my order. Will definitely be a repeat customer. Brilliant service.,4,positive,synthetic
+811,"Easy to use, well-built, and arrived earlier than expected. Would buy again.",5,positive,synthetic
+812,Would not recommend. Save your money. Disappointed actually.,2,negative,synthetic
+813,Works as described. No complaints but no praise either. Disappointed actually.,2,neutral,synthetic
+814,Best purchase I have made this year. Highly recommend. Disappointed actually.,5,positive,synthetic
+815,One star. Product stopped working within a month. Not what I expected.,1,negative,synthetic
+816,Worst purchase I have ever made. Avoid.,2,negative,synthetic
+817,Three stars. Met expectations but did not exceed them. Brilliant service.,3,neutral,synthetic
+818,"It is okay, does the job but nothing special. Not what I expected.",3,neutral,synthetic
+819,Brilliant quality and the price was unbeatable.,5,positive,synthetic
+820,"Easy to use, well-built, and arrived earlier than expected. Disappointed actually.",5,positive,synthetic
+821,Three stars. Met expectations but did not exceed them. Brilliant service.,3,neutral,synthetic
+822,So happy with my order. Will definitely be a repeat customer. Brilliant service.,5,positive,synthetic
+823,"Mixed feelings — some features great, others lacking. Will recommend to friends.",3,neutral,synthetic
+824,Very disappointed. The product felt cheap and flimsy. Brilliant service.,2,negative,synthetic
+825,Absolutely love this product — exceeded my expectations.,4,positive,synthetic
+826,"Mixed feelings — some features great, others lacking. Would buy again.",3,neutral,synthetic
+827,Brilliant quality and the price was unbeatable. Will recommend to friends.,5,positive,synthetic
+828,Customer service was unhelpful and rude. Not what I expected.,2,negative,synthetic
+829,"Easy to use, well-built, and arrived earlier than expected. Would buy again.",5,positive,synthetic
+830,Average product. Delivery was on time. Not what I expected.,3,neutral,synthetic
+831,"Reasonable product, but the instructions were unclear. Brilliant service.",4,neutral,synthetic
+832,Absolutely love this product — exceeded my expectations. Not what I expected.,5,positive,synthetic
+833,"Mixed feelings — some features great, others lacking. Will recommend to friends.",2,neutral,synthetic
+834,One star. Product stopped working within a month. Would buy again.,1,negative,synthetic
+835,"Mixed feelings — some features great, others lacking. Really impressed.",2,neutral,synthetic
+836,Customer service was unhelpful and rude. Will recommend to friends.,1,negative,synthetic
+837,Very disappointed. The product felt cheap and flimsy. Will recommend to friends.,1,negative,synthetic
+838,Five stars — works perfectly out of the box. Would buy again.,5,positive,synthetic
+839,It is fine. Would not go out of my way to recommend. Not what I expected.,4,neutral,synthetic
+840,So happy with my order. Will definitely be a repeat customer. Will recommend to friends.,4,positive,synthetic
+841,Customer service was unhelpful and rude. Really impressed.,1,negative,synthetic
+842,It is fine. Would not go out of my way to recommend. Brilliant service.,2,neutral,synthetic
+843,So happy with my order. Will definitely be a repeat customer.,5,positive,synthetic
+844,Brilliant quality and the price was unbeatable. Brilliant service.,4,positive,synthetic
+845,Very disappointed. The product felt cheap and flimsy. Would buy again.,1,negative,synthetic
+846,Absolutely love this product — exceeded my expectations. Really impressed.,4,positive,synthetic
+847,Average product. Delivery was on time. Would buy again.,3,neutral,synthetic
+848,Best purchase I have made this year. Highly recommend. Would buy again.,5,positive,synthetic
+849,"Late delivery, damaged packaging, poor quality. Would buy again.",2,negative,synthetic
+850,Best purchase I have made this year. Highly recommend. Really impressed.,4,positive,synthetic
+851,"Great value for money, fast delivery, would buy again. Really impressed.",5,positive,synthetic
+852,One star. Product stopped working within a month. Brilliant service.,1,negative,synthetic
+853,Customer service was unhelpful and rude. Really impressed.,2,negative,synthetic
+854,"Great value for money, fast delivery, would buy again. Not what I expected.",5,positive,synthetic
+855,"Easy to use, well-built, and arrived earlier than expected. Would buy again.",5,positive,synthetic
+856,Did not match the description at all. Returning. Disappointed actually.,1,negative,synthetic
+857,"Late delivery, damaged packaging, poor quality. Disappointed actually.",1,negative,synthetic
+858,Absolutely love this product — exceeded my expectations. Would buy again.,4,positive,synthetic
+859,"It is okay, does the job but nothing special. Will recommend to friends.",2,neutral,synthetic
+860,Would not recommend. Save your money. Will recommend to friends.,1,negative,synthetic
+861,Terrible experience — product broke after one week. Disappointed actually.,2,negative,synthetic
+862,"Late delivery, damaged packaging, poor quality.",2,negative,synthetic
+863,It is fine. Would not go out of my way to recommend.,3,neutral,synthetic
+864,Brilliant quality and the price was unbeatable. Would buy again.,5,positive,synthetic
+865,One star. Product stopped working within a month. Disappointed actually.,2,negative,synthetic
+866,Did not match the description at all. Returning. Would buy again.,2,negative,synthetic
+867,Worst purchase I have ever made. Avoid. Would buy again.,1,negative,synthetic
+868,So happy with my order. Will definitely be a repeat customer. Would buy again.,5,positive,synthetic
+869,"Excellent customer service, the team went above and beyond. Will recommend to friends.",5,positive,synthetic
+870,Did not match the description at all. Returning. Really impressed.,1,negative,synthetic
+871,"Excellent customer service, the team went above and beyond. Brilliant service.",5,positive,synthetic
+872,Customer service was unhelpful and rude. Really impressed.,2,negative,synthetic
+873,So happy with my order. Will definitely be a repeat customer. Not what I expected.,5,positive,synthetic
+874,Worst purchase I have ever made. Avoid. Brilliant service.,2,negative,synthetic
+875,Very disappointed. The product felt cheap and flimsy. Will recommend to friends.,2,negative,synthetic
+876,"Excellent customer service, the team went above and beyond. Brilliant service.",4,positive,synthetic
+877,Best purchase I have made this year. Highly recommend.,4,positive,synthetic
+878,"Reasonable product, but the instructions were unclear. Will recommend to friends.",3,neutral,synthetic
+879,"Decent quality for the price, but packaging could be better.",3,neutral,synthetic
+880,"Easy to use, well-built, and arrived earlier than expected. Really impressed.",5,positive,synthetic
+881,"Decent quality for the price, but packaging could be better. Will recommend to friends.",3,neutral,synthetic
+882,Terrible experience — product broke after one week. Would buy again.,1,negative,synthetic
+883,"Easy to use, well-built, and arrived earlier than expected. Will recommend to friends.",5,positive,synthetic
+884,Five stars — works perfectly out of the box. Disappointed actually.,5,positive,synthetic
+885,"Excellent customer service, the team went above and beyond. Would buy again.",4,positive,synthetic
+886,"Great value for money, fast delivery, would buy again. Not what I expected.",4,positive,synthetic
+887,"Easy to use, well-built, and arrived earlier than expected. Not what I expected.",4,positive,synthetic
+888,Brilliant quality and the price was unbeatable. Not what I expected.,5,positive,synthetic
+889,"Decent quality for the price, but packaging could be better. Brilliant service.",3,neutral,synthetic
+890,So happy with my order. Will definitely be a repeat customer.,4,positive,synthetic
+891,"Late delivery, damaged packaging, poor quality.",2,negative,synthetic
+892,"Easy to use, well-built, and arrived earlier than expected. Brilliant service.",5,positive,synthetic
+893,Five stars — works perfectly out of the box. Really impressed.,4,positive,synthetic
+894,Worst purchase I have ever made. Avoid. Brilliant service.,1,negative,synthetic
+895,One star. Product stopped working within a month.,1,negative,synthetic
+896,"Easy to use, well-built, and arrived earlier than expected. Really impressed.",5,positive,synthetic
+897,"Great value for money, fast delivery, would buy again. Brilliant service.",4,positive,synthetic
+898,Best purchase I have made this year. Highly recommend. Will recommend to friends.,4,positive,synthetic
+899,Three stars. Met expectations but did not exceed them.,2,neutral,synthetic
+900,Brilliant quality and the price was unbeatable. Brilliant service.,5,positive,synthetic
+901,Five stars — works perfectly out of the box. Disappointed actually.,4,positive,synthetic
+902,Five stars — works perfectly out of the box.,5,positive,synthetic
+903,Absolutely love this product — exceeded my expectations.,4,positive,synthetic
+904,One star. Product stopped working within a month. Not what I expected.,1,negative,synthetic
+905,"Decent quality for the price, but packaging could be better. Really impressed.",3,neutral,synthetic
+906,Absolutely love this product — exceeded my expectations. Will recommend to friends.,5,positive,synthetic
+907,Absolutely love this product — exceeded my expectations. Would buy again.,4,positive,synthetic
+908,"Easy to use, well-built, and arrived earlier than expected. Not what I expected.",5,positive,synthetic
+909,Five stars — works perfectly out of the box. Will recommend to friends.,5,positive,synthetic
+910,Worst purchase I have ever made. Avoid.,1,negative,synthetic
+911,Would not recommend. Save your money. Not what I expected.,1,negative,synthetic
+912,Worst purchase I have ever made. Avoid. Will recommend to friends.,2,negative,synthetic
+913,Worst purchase I have ever made. Avoid. Would buy again.,1,negative,synthetic
+914,"Late delivery, damaged packaging, poor quality. Will recommend to friends.",1,negative,synthetic
+915,Did not match the description at all. Returning. Brilliant service.,1,negative,synthetic
+916,"Great value for money, fast delivery, would buy again. Disappointed actually.",5,positive,synthetic
+917,Absolutely love this product — exceeded my expectations.,5,positive,synthetic
+918,Five stars — works perfectly out of the box. Really impressed.,5,positive,synthetic
+919,"Reasonable product, but the instructions were unclear. Brilliant service.",4,neutral,synthetic
+920,Absolutely love this product — exceeded my expectations. Brilliant service.,5,positive,synthetic
+921,Would not recommend. Save your money. Not what I expected.,1,negative,synthetic
+922,"Mixed feelings — some features great, others lacking. Brilliant service.",3,neutral,synthetic
+923,Average product. Delivery was on time. Disappointed actually.,3,neutral,synthetic
+924,Five stars — works perfectly out of the box. Disappointed actually.,4,positive,synthetic
+925,Brilliant quality and the price was unbeatable. Disappointed actually.,4,positive,synthetic
+926,So happy with my order. Will definitely be a repeat customer.,5,positive,synthetic
+927,Did not match the description at all. Returning. Not what I expected.,2,negative,synthetic
+928,Works as described. No complaints but no praise either. Would buy again.,2,neutral,synthetic
+929,Did not match the description at all. Returning. Would buy again.,1,negative,synthetic
+930,Brilliant quality and the price was unbeatable. Not what I expected.,5,positive,synthetic
+931,Five stars — works perfectly out of the box. Really impressed.,5,positive,synthetic
+932,"Excellent customer service, the team went above and beyond. Will recommend to friends.",5,positive,synthetic
+933,"Late delivery, damaged packaging, poor quality. Not what I expected.",2,negative,synthetic
+934,Very disappointed. The product felt cheap and flimsy. Really impressed.,2,negative,synthetic
+935,Five stars — works perfectly out of the box.,4,positive,synthetic
+936,Would not recommend. Save your money. Brilliant service.,1,negative,synthetic
+937,"Great value for money, fast delivery, would buy again. Will recommend to friends.",5,positive,synthetic
+938,Very disappointed. The product felt cheap and flimsy. Will recommend to friends.,1,negative,synthetic
+939,"Great value for money, fast delivery, would buy again. Really impressed.",4,positive,synthetic
+940,"Excellent customer service, the team went above and beyond. Brilliant service.",4,positive,synthetic
+941,Worst purchase I have ever made. Avoid. Will recommend to friends.,1,negative,synthetic
+942,So happy with my order. Will definitely be a repeat customer. Really impressed.,5,positive,synthetic
+943,Brilliant quality and the price was unbeatable.,4,positive,synthetic
+944,"Great value for money, fast delivery, would buy again.",5,positive,synthetic
+945,So happy with my order. Will definitely be a repeat customer. Not what I expected.,5,positive,synthetic
+946,Terrible experience — product broke after one week. Not what I expected.,1,negative,synthetic
+947,"Late delivery, damaged packaging, poor quality. Will recommend to friends.",2,negative,synthetic
+948,Customer service was unhelpful and rude. Not what I expected.,1,negative,synthetic
+949,"Easy to use, well-built, and arrived earlier than expected. Would buy again.",5,positive,synthetic
+950,It is fine. Would not go out of my way to recommend. Not what I expected.,4,neutral,synthetic
+951,Five stars — works perfectly out of the box. Not what I expected.,4,positive,synthetic
+952,So happy with my order. Will definitely be a repeat customer. Brilliant service.,5,positive,synthetic
+953,Brilliant quality and the price was unbeatable. Disappointed actually.,5,positive,synthetic
+954,Customer service was unhelpful and rude. Really impressed.,2,negative,synthetic
+955,Worst purchase I have ever made. Avoid. Really impressed.,2,negative,synthetic
+956,Very disappointed. The product felt cheap and flimsy. Really impressed.,1,negative,synthetic
+957,"It is okay, does the job but nothing special. Disappointed actually.",2,neutral,synthetic
+958,Brilliant quality and the price was unbeatable.,5,positive,synthetic
+959,Works as described. No complaints but no praise either.,3,neutral,synthetic
+960,Average product. Delivery was on time. Brilliant service.,3,neutral,synthetic
+961,"Easy to use, well-built, and arrived earlier than expected. Not what I expected.",5,positive,synthetic
+962,Five stars — works perfectly out of the box. Will recommend to friends.,5,positive,synthetic
+963,So happy with my order. Will definitely be a repeat customer. Not what I expected.,4,positive,synthetic
+964,Customer service was unhelpful and rude. Will recommend to friends.,2,negative,synthetic
+965,"Excellent customer service, the team went above and beyond. Will recommend to friends.",4,positive,synthetic
+966,Terrible experience — product broke after one week. Will recommend to friends.,2,negative,synthetic
+967,Absolutely love this product — exceeded my expectations. Really impressed.,5,positive,synthetic
+968,"Decent quality for the price, but packaging could be better. Not what I expected.",3,neutral,synthetic
+969,"Easy to use, well-built, and arrived earlier than expected. Disappointed actually.",5,positive,synthetic
+970,"Great value for money, fast delivery, would buy again. Not what I expected.",4,positive,synthetic
+971,"Great value for money, fast delivery, would buy again. Brilliant service.",5,positive,synthetic
+972,Best purchase I have made this year. Highly recommend.,5,positive,synthetic
+973,Did not match the description at all. Returning.,1,negative,synthetic
+974,So happy with my order. Will definitely be a repeat customer. Brilliant service.,4,positive,synthetic
+975,"Reasonable product, but the instructions were unclear. Would buy again.",2,neutral,synthetic
+976,Brilliant quality and the price was unbeatable. Disappointed actually.,5,positive,synthetic
+977,So happy with my order. Will definitely be a repeat customer. Will recommend to friends.,5,positive,synthetic
+978,"Mixed feelings — some features great, others lacking. Not what I expected.",4,neutral,synthetic
+979,So happy with my order. Will definitely be a repeat customer.,4,positive,synthetic
+980,Customer service was unhelpful and rude. Brilliant service.,2,negative,synthetic
+981,Very disappointed. The product felt cheap and flimsy. Will recommend to friends.,1,negative,synthetic
+982,One star. Product stopped working within a month. Really impressed.,2,negative,synthetic
+983,Five stars — works perfectly out of the box. Disappointed actually.,4,positive,synthetic
+984,Absolutely love this product — exceeded my expectations. Will recommend to friends.,5,positive,synthetic
+985,Would not recommend. Save your money. Not what I expected.,2,negative,synthetic
+986,Best purchase I have made this year. Highly recommend.,4,positive,synthetic
+987,"Easy to use, well-built, and arrived earlier than expected.",5,positive,synthetic
+988,"Easy to use, well-built, and arrived earlier than expected. Will recommend to friends.",5,positive,synthetic
+989,Worst purchase I have ever made. Avoid. Not what I expected.,1,negative,synthetic
+990,It is fine. Would not go out of my way to recommend. Not what I expected.,2,neutral,synthetic
+991,Customer service was unhelpful and rude. Will recommend to friends.,2,negative,synthetic
+992,Would not recommend. Save your money. Brilliant service.,1,negative,synthetic
+993,Brilliant quality and the price was unbeatable. Would buy again.,4,positive,synthetic
+994,Terrible experience — product broke after one week. Would buy again.,1,negative,synthetic
+995,So happy with my order. Will definitely be a repeat customer. Disappointed actually.,5,positive,synthetic
+996,"Decent quality for the price, but packaging could be better.",2,neutral,synthetic
+997,Best purchase I have made this year. Highly recommend. Not what I expected.,5,positive,synthetic
+998,Customer service was unhelpful and rude.,2,negative,synthetic
+999,"Easy to use, well-built, and arrived earlier than expected. Disappointed actually.",5,positive,synthetic
